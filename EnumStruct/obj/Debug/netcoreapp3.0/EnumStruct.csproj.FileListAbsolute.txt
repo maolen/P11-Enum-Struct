@@ -1,0 +1,11 @@
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\bin\Debug\netcoreapp3.0\EnumStruct.exe
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\bin\Debug\netcoreapp3.0\EnumStruct.deps.json
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\bin\Debug\netcoreapp3.0\EnumStruct.runtimeconfig.json
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\bin\Debug\netcoreapp3.0\EnumStruct.runtimeconfig.dev.json
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\bin\Debug\netcoreapp3.0\EnumStruct.dll
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\bin\Debug\netcoreapp3.0\EnumStruct.pdb
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\obj\Debug\netcoreapp3.0\EnumStruct.csprojAssemblyReference.cache
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\obj\Debug\netcoreapp3.0\EnumStruct.AssemblyInfoInputs.cache
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\obj\Debug\netcoreapp3.0\EnumStruct.AssemblyInfo.cs
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\obj\Debug\netcoreapp3.0\EnumStruct.dll
+C:\Users\ЖакуповаК\source\repos\EnumStruct\EnumStruct\obj\Debug\netcoreapp3.0\EnumStruct.pdb
